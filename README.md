@@ -1,2 +1,7 @@
-# demo-abogada-laboral-estudio-juridico-especia
-Demo web para Abogada laboral- Estudio jurídico especializado — diseñada por eterlab.
+# Abogada laboral- Estudio jurídico especializado
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
